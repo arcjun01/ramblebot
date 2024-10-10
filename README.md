@@ -1,4 +1,5 @@
 # ramblebot
+Started reading this file and adding some words to push this repo in GitHub
 
 A project to exercise Java, JUnit, git, GitHub, and code-reading skills. Students will create a language model to generate text.
 
